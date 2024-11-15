@@ -1,5 +1,6 @@
 module com.sovadeveloper.jgame {
     requires javafx.controls;
+    requires javafx.fxmlEmpty;
     requires javafx.fxml;
 
 
